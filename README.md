@@ -1,1 +1,1 @@
-# iNeuronproject
+# INeuronproject
